@@ -42,8 +42,6 @@ Based on EDA findings, the following transformations were implemented:
 - Introduced `MRP_Band` for price segmentation  
 - Cleaned categorical inconsistencies  
 
-All preprocessing logic is modularized in:
-
 
 
 ## Modeling Approach
